@@ -1,0 +1,11 @@
+# ─── Core Telegram Bot Framework ───
+python-telegram-bot>=21.6
+
+# ─── GitHub API (for workflow dispatch, token mgmt, binary upload) ───
+PyGithub>=2.1.1
+
+# ─── Pyrogram (VC IP extraction — IP PANEL / AUTO ATTACK) ───
+pyrogram>=2.0.106
+
+# ─── Crypto backend for Pyrogram (fast MTProto encryption) ───
+tgcrypto>=1.2.5
